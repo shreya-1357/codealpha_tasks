@@ -4,6 +4,12 @@
             margin: 0;
             font-family: Arial, sans-serif;
         }
+        h1{
+            text-align: center;
+            color: rgb(160, 160, 249);
+            font-size: 50px;
+            font-weight: bold;
+        }
 
         .gallery {
             display: flex;
@@ -57,4 +63,5 @@
         .overlay.show {
             display: flex;
         }
+
     
